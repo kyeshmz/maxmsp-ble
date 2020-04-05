@@ -1,0 +1,13 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "noble-mac": "https://github.com/Timeular/noble-mac.git",
+    "osc-js": "^2.1.0"
+  }
+}
